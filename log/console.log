@@ -1,0 +1,30 @@
+2018-10-12 15:40:56.687 [error] <0.2974.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.2979.0> exit with reason normal in context child_terminated
+2018-10-12 15:40:56.751 [info] <0.33.0> Application lager started on node nonode@nohost
+2018-10-12 15:40:56.756 [info] <0.33.0> Application pobox started on node nonode@nohost
+2018-10-12 15:40:56.764 [info] <0.33.0> Application elixometer started on node nonode@nohost
+2018-10-12 15:40:56.770 [info] <0.33.0> Application hpack started on node nonode@nohost
+2018-10-12 15:40:56.770 [info] <0.33.0> Application chatterbox started on node nonode@nohost
+2018-10-12 15:40:56.775 [info] <0.33.0> Application poolboy started on node nonode@nohost
+2018-10-12 15:40:56.775 [info] <0.33.0> Application pigeon started on node nonode@nohost
+2018-10-12 15:40:56.776 [info] <0.33.0> Application distillery started on node nonode@nohost
+2018-10-12 15:40:56.777 [info] <0.33.0> Application mix_docker started on node nonode@nohost
+2018-10-12 15:40:56.778 [info] <0.33.0> Application pollution started on node nonode@nohost
+2018-10-12 15:40:56.778 [info] <0.33.0> Application quixir started on node nonode@nohost
+2018-10-12 15:40:56.829 [info] <0.33.0> Application mongoose_push started on node nonode@nohost
+2018-10-12 15:40:57.147 [error] <0.3273.0> CRASH REPORT Process <0.3273.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.148 [error] <0.3277.0> CRASH REPORT Process <0.3277.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.149 [error] <0.3279.0> CRASH REPORT Process <0.3279.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.151 [error] <0.3281.0> CRASH REPORT Process <0.3281.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.152 [error] <0.3283.0> CRASH REPORT Process <0.3283.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.152 [error] <0.3285.0> CRASH REPORT Process <0.3285.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.153 [error] <0.3287.0> CRASH REPORT Process <0.3287.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.154 [error] <0.3289.0> CRASH REPORT Process <0.3289.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.155 [error] <0.3291.0> CRASH REPORT Process <0.3291.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.155 [error] <0.3293.0> CRASH REPORT Process <0.3293.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.156 [error] <0.3295.0> CRASH REPORT Process <0.3295.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.157 [error] <0.3297.0> CRASH REPORT Process <0.3297.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:40:57.158 [error] <0.3299.0> CRASH REPORT Process <0.3299.0> with 1 neighbours exited with reason: econnrefused in gen_fsm:init_it/6 line 358
+2018-10-12 15:41:01.688 [info] <0.33.0> Application mongoose_push exited with reason: stopped
+2018-10-12 15:41:01.696 [info] <0.33.0> Application mongoose_push started on node nonode@nohost
+2018-10-12 15:41:01.696 [info] <0.33.0> Application mongoose_push exited with reason: stopped
+2018-10-12 15:41:01.701 [info] <0.33.0> Application mongoose_push started on node nonode@nohost

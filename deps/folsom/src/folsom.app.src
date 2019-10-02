@@ -1,0 +1,13 @@
+{application,folsom,
+             [{description,"Erlang based metrics system"},
+              {vsn,"0.8.5"},
+              {modules,[]},
+              {registered,[folsom_meter_timer_server,
+                           folsom_metrics_histogram_ets,folsom_sup]},
+              {applications,[kernel,stdlib,bear]},
+              {env,[]},
+              {mod,{folsom,[]}},
+              {maintainers,["Joe Williams"]},
+              {licenses,["Apache 2"]},
+              {links,[{"Github",
+                       "https://github.com/project-folsom/folsom"}]}]}.

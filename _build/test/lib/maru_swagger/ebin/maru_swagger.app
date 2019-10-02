@@ -1,0 +1,13 @@
+{application,maru_swagger,
+             [{applications,[kernel,stdlib,elixir,maru]},
+              {description,"Add swagger compliant documentation to your maru API"},
+              {modules,['Elixir.MaruSwagger',
+                        'Elixir.MaruSwagger.ConfigStruct',
+                        'Elixir.MaruSwagger.DSL',
+                        'Elixir.MaruSwagger.ParamsExtractor',
+                        'Elixir.MaruSwagger.ParamsExtractor.NonGetBodyParamsGenerator',
+                        'Elixir.MaruSwagger.ParamsExtractor.NonGetFormDataParamsGenerator',
+                        'Elixir.MaruSwagger.Plug',
+                        'Elixir.MaruSwagger.ResponseFormatter']},
+              {registered,[]},
+              {vsn,"0.8.3"}]}.
